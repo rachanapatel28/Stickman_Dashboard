@@ -1,2 +1,3 @@
-# Stickman_Dashboard
+# Stickman Services Dashboard
 Analytical Dashboard using Python
+
